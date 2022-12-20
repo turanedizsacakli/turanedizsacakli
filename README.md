@@ -25,5 +25,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/turanedizsacakli/"><img width="120px" align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
 <a href="https://www.sololearn.com/profile/21129144"><img align="center" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn Badge"></a>
 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=turanedizsacakli&show_icons=true&theme=dark)
+
+
 <!-- platane/snk works, it just puts it on a new branch -->
 ![snake gif](https://github.com/turanedizsacakli/turanedizsacakli/blob/output/github-contribution-grid-snake.svg)
