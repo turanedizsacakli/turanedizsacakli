@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://play.google.com/store/apps/details?id=io.kodular.turanedizsacakli.Anayasa_Hukuku_DY"><img align="left" src="https://play-lh.googleusercontent.com/5_9GG_LPtEMzv0P4HmH3eAuhtSmzXIisftHRrS1WrZs6G6u93wZPpdNNhLNdgiR8sJY=w240-h480-rw" alt="MyApp"></a>
 <a href="https://play.google.com/store/apps/details?id=io.kodular.turanedizsacakli.Uzmanlik_Sinavlari_Denemeler"><img align="left" src="https://play-lh.googleusercontent.com/of2ILi_z4UKwV1Qw0r9zSE0J6l2zO_PaHxNVOW5eRKb80cPHdjC2UF9RiJK2yF6rqfc=w240-h480-rw" alt="MyApp"></a>
-<a href="https://play.google.com/store/apps/details?id=io.kodular.turanedizsacakli.Hakimlik_Ders_Notlari_IyukSureler_v1"><img align="left" src="https://play-lh.googleusercontent.com/LxD7PiActfGljCC0UvQw_a0B46lCToKgBuGsN6V092-LwM5FkZD1AKuUEKhQ3raIGlQ=w240-h480-rw" alt="MyApp"></a></div> <br><br><br><br><br><br><br><br><br><br>
+<a href="https://play.google.com/store/apps/details?id=io.kodular.turanedizsacakli.Hakimlik_Ders_Notlari_IyukSureler_v1"><img align="left" src="https://play-lh.googleusercontent.com/LxD7PiActfGljCC0UvQw_a0B46lCToKgBuGsN6V092-LwM5FkZD1AKuUEKhQ3raIGlQ=w240-h480-rw" alt="MyApp"></a></div> <br><br><br><br><br><br><br><br><br><br><br>
 
 
 # 📊 GitHub Stats:
