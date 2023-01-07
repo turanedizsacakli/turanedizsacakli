@@ -1,5 +1,5 @@
 ### Hi there 👋
-<br><br>
+<br>
 <!--
 **turanedizsacakli/turanedizsacakli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
