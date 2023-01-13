@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there... I am Turan... Welcome my github...👋
 <br>
 - 🤔 I’m looking for help with work...
 <!--
