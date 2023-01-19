@@ -59,8 +59,6 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<br>
-
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![snake gif](https://github.com/turanedizsacakli/turanedizsacakli/blob/output/github-contribution-grid-snake.svg)
