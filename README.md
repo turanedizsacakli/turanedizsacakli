@@ -1,6 +1,6 @@
 ### Hi there... I am Turan... Welcome my github...👋
 <br>
--🤔 I’m looking for job... Waiting help...<br><br>
+-🤔 I’m looking for job... Waiting for help...<br><br>
 <!--
 **turanedizsacakli/turanedizsacakli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
