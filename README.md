@@ -2,7 +2,6 @@
 <br>
 Do you want to visit my website?<span ><a href="https://tedijital.com" target="_blank"> click there...</a></span> 
 <br><br>
--🤔 I’m looking for job... Waiting for help...<br><br>
 <!--
 **turanedizsacakli/turanedizsacakli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
